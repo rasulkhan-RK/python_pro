@@ -11,9 +11,13 @@
 <h3>3. Rock, Paper, Scissors Game</h3>
 <p>A simple Python game where you play against the computer. Choose Rock, Paper, or Scissors, and the game will determine the winner based on the classic rules. It includes input validation, score tracking, and random computer selection.</p>
 
+<h3>4. Email Validator</h3>
+<p>A Python script to validate email addresses based on common rules like proper format, valid domain, and basic structure.</p>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
   <li>Input validation</li>
   <li>Determines winner based on Rock, Paper, Scissors rules</li>
+  <li>Validates emails with basic format checks</li>
 </ul>
