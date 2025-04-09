@@ -14,7 +14,7 @@
 <h3>4. Email Validator</h3>
 <p>A Python script to validate email addresses based on common rules like proper format, valid domain, and basic structure.</p>
 
-<h3>4. Email Validator Using Regex Module</h3>
+<h3>5. Email Validator Using Regex Module</h3>
 <p>A simple Python script to validate email addresses using regular expressions. Ensures the email format follows standard conventions and helps identify valid email inputs.</p>
 
 <h4>Key Features:</h4>
