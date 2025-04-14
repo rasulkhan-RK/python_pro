@@ -26,6 +26,9 @@
 <h3>8. Text Formatter</h3>
  <p>A Python script that formats text by applying various styles like uppercase, lowercase, title case, and sentence case. It's a simple tool for cleaning and standardizing text for better readability.</p>
 
+ <h3>9. Check Character Type</h3> 
+ <p>A simple Python script that checks the type of a character entered by the user. It identifies whether the character is a letter, digit, or special symbol.</p>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -35,5 +38,6 @@
   <li>Email Validator Using Regex Module</li>
   <li>URL Checker</li>
   <li>Step Counter</li>
-  /<li>Text Formatter</li>
+  <li>Text Formatter</li>
+  <li>Check Character Type</li>
 </ul>
