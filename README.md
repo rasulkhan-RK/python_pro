@@ -35,5 +35,5 @@
   <li>Email Validator Using Regex Module</li>
   <li>URL Checker</li>
   <li>Step Counter</li>
-  /<li>Text Formatter</li>
+  <li>Text Formatter</li>
 </ul>
