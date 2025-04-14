@@ -20,6 +20,12 @@
 <h3>6. URL Checker</h3>
 <p>A Python script to check if a URL is valid and reachable. It verifies the URL format and checks if the domain is active, making it a useful tool for ensuring links aren't broken</p>
 
+<h3>7. Step Counter</h3> 
+<p>A Python program that tracks the number of steps you take using the accelerometer in your device. It counts each step and displays the total, helping you keep track of your daily activity.</p>
+
+<h3>8. Text Formatter</h3>
+ <p>A Python script that formats text by applying various styles like uppercase, lowercase, title case, and sentence case. It's a simple tool for cleaning and standardizing text for better readability.</p>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -28,4 +34,6 @@
   <li>Validates emails with basic format checks</li>
   <li>Email Validator Using Regex Module</li>
   <li>URL Checker</li>
+  <li>Step Counter</li>
+  /<li>Text Formatter</li>
 </ul>
