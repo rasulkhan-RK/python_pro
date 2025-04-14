@@ -17,6 +17,9 @@
 <h3>5. Email Validator Using Regex Module</h3>
 <p>A simple Python script to validate email addresses using regular expressions. Ensures the email format follows standard conventions and helps identify valid email inputs.</p>
 
+<h3>6. URL Checker</h3>
+<p>A Python script to check if a URL is valid and reachable. It verifies the URL format and checks if the domain is active, making it a useful tool for ensuring links aren't broken</p>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -24,4 +27,5 @@
   <li>Determines winner based on Rock, Paper, Scissors rules</li>
   <li>Validates emails with basic format checks</li>
   <li>Email Validator Using Regex Module</li>
+  <li>URL Checker</li>
 </ul>
