@@ -38,6 +38,15 @@
  <h3>12. Music Recommender</h3>
  <p>A basic Python project that recommends songs based on user preferences.</p>
 
+ <h3>13. Random Name Generator</h3>
+ <p>A simple Python script that creates random name combinations by picking from two name lists. The user enters how many names to generate, and the program outputs them in a First_Second format.</p>
+
+ <h3>14. Name Reverser</h3>
+ <p>A simple Python script that takes a name as input and prints the reversed version. Great for practicing string manipulation and user input.</p>
+
+ <h3>15. Vowel Counter</h3>
+ <p>A Python script that counts the number of vowels (A, E, I, O, U) in a given string. It helps practice string iteration and basic counting logic.</p>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -51,4 +60,7 @@
   <li>Grade Calculator</li>
   <li>Word Scrambler</li>
   <li>Music Recommender</li>
+  <li>Random Name Generator</li>
+  <li>Name Reverser</li>
+  <li>Vowel Counter</li>
 </ul>
