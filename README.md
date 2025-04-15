@@ -35,6 +35,9 @@
  <h3>11. Word Scrambler</h3>
  <p>A fun program that takes a word and returns a scrambled version, great for basic string manipulation practice.</p>
 
+ <h3>12. Music Recommender</h3>
+ <p>A basic Python project that recommends songs based on user preferences.</p>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -47,4 +50,5 @@
   <li>Text Formatter</li>
   <li>Grade Calculator</li>
   <li>Word Scrambler</li>
+  <li>Music Recommender</li>
 </ul>
