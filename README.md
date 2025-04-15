@@ -29,6 +29,12 @@
  <h3>9. Check Character Type</h3> 
  <p>A simple Python script that checks the type of a character entered by the user. It identifies whether the character is a letter, digit, or special symbol.</p>
 
+ <h3>10. Grade Calculator</h3>
+ <p>A simple tool that takes user input for scores and calculates the overall grade based on defined criteria.</p>
+
+ <h3>11. Word Scrambler</h3>
+ <p>A fun program that takes a word and returns a scrambled version, great for basic string manipulation practice.</p>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -39,4 +45,6 @@
   <li>URL Checker</li>
   <li>Step Counter</li>
   <li>Text Formatter</li>
+  <li>Grade Calculator</li>
+  <li>Word Scrambler</li>
 </ul>
