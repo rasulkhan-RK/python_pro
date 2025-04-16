@@ -47,6 +47,12 @@
  <h3>15. Vowel Counter</h3>
  <p>A Python script that counts the number of vowels (A, E, I, O, U) in a given string. It helps practice string iteration and basic counting logic.</p>
 
+ <h3>16. Flip Coin – Heads or Tails</h3>
+ <p>A tiny Python game that flips a coin and shows Heads or Tails. Just for fun!</p>
+
+ <h3>17. Random Recipe Generator</h3>
+ <p>A fun Python project that picks a random recipe for you to try. Great for when you can’t decide what to cook!</p>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -63,4 +69,6 @@
   <li>Random Name Generator</li>
   <li>Name Reverser</li>
   <li>Vowel Counter</li>
+ <li>Flip Coin – Heads or Tails</li>
+ <li>Random Recipe Generator</li>
 </ul>
