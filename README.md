@@ -59,6 +59,9 @@
  <h3>19. Countdown Timer using (time module)</h3>
  <p>This is a basic understanding a time module, Where user can enter the positive number to start the timer in seconds</p>
 
+ <h3>20. Simple Calculator</h3>
+ <p>User can calculate his given number using methods (add, sub, mul, div)</p>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -76,6 +79,7 @@
   <li>Name Reverser</li>
   <li>Vowel Counter</li>
  <li>Flip Coin – Heads or Tails</li>
+ <li>Simple Calculator</li>
  <li>Random Recipe Generator</li>
  <li>Guess Scrambled Word</li>
  <li>Countdown Timer using (time module</li>
