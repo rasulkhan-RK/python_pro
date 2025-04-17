@@ -53,6 +53,9 @@
  <h3>17. Random Recipe Generator</h3>
  <p>A fun Python project that picks a random recipe for you to try. Great for when you can’t decide what to cook!</p>
 
+ <h3>18. Guess Scrambled Word</h3>
+ <p>This is a fun guessing scrambled word, Where user can guess the word</p>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -71,4 +74,5 @@
   <li>Vowel Counter</li>
  <li>Flip Coin – Heads or Tails</li>
  <li>Random Recipe Generator</li>
+ <li>Guess Scrambled Word</li>
 </ul>
