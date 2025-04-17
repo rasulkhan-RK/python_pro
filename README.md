@@ -56,6 +56,9 @@
  <h3>18. Guess Scrambled Word</h3>
  <p>This is a fun guessing scrambled word, Where user can guess the word</p>
 
+ <h3>19. Countdown Timer using (time module)</h3>
+ <p>This is a basic understanding a time module, Where user can enter the positive number to start the timer in seconds</p>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -75,4 +78,5 @@
  <li>Flip Coin – Heads or Tails</li>
  <li>Random Recipe Generator</li>
  <li>Guess Scrambled Word</li>
+ <li>Countdown Timer using (time module</li>
 </ul>
