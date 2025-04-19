@@ -62,6 +62,14 @@
  <h3>20. Simple Calculator</h3>
  <p>User can calculate his given number using methods (add, sub, mul, div)</p>
 
+ <h3>21. Word Association Game</h3>
+ <p>A fast-paced terminal game where you guess related words to a given prompt.
+Think quick and type fast—the faster your response, the more points you earn!</p>
+
+<h3>22. Memory Sequence Game</h3>
+<p>A simple and fun terminal-based memory game built with Python.
+Watch a sequence of numbers appear one by one—then try to type them back in order. Each round adds a new number. How far can your memory take you?</p>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -83,4 +91,6 @@
  <li>Random Recipe Generator</li>
  <li>Guess Scrambled Word</li>
  <li>Countdown Timer using (time module</li>
+ <li>Word Association Game</li>
+ <li>Memory Sequence Game</li>
 </ul>
