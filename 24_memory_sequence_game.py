@@ -8,7 +8,7 @@ def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 
-print("🧠  MEMORY SEQUENSE GAME 🧠")
+print("\n🧠  MEMORY SEQUENSE GAME 🧠")
 print("Remember the sequense and type it back! ✨")
 print("\nRules:")
 print("_ Watch as numbers appear one by one")
