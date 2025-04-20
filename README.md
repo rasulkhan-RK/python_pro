@@ -70,6 +70,13 @@ Think quick and type fast—the faster your response, the more points you earn!<
 <p>A simple and fun terminal-based memory game built with Python.
 Watch a sequence of numbers appear one by one—then try to type them back in order. Each round adds a new number. How far can your memory take you?</p>
 
+<h3>23. Rock Paper Scissors - Terminal Game</h3>
+<p>A classic Rock Paper Scissors game built with Python.
+Play against the computer in a best-of-3 match, with real-time feedback, score tracking, and fun emojis!</p>
+
+<h3>24. Simple Task Manager</h3>
+<li>A beginner-friendly command-line Task Manager built in Python. Add, view, complete, and delete your daily tasks with ease.</li>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -93,4 +100,6 @@ Watch a sequence of numbers appear one by one—then try to type them back in or
  <li>Countdown Timer using (time module</li>
  <li>Word Association Game</li>
  <li>Memory Sequence Game</li>
+ <li>Rock Paper Scissors - Terminal Game</li>
+ <li>Simple Task Manager</li>
 </ul>
