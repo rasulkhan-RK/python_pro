@@ -75,7 +75,10 @@ Watch a sequence of numbers appear one by one—then try to type them back in or
 Play against the computer in a best-of-3 match, with real-time feedback, score tracking, and fun emojis!</p>
 
 <h3>24. Simple Task Manager</h3>
-<li>A beginner-friendly command-line Task Manager built in Python. Add, view, complete, and delete your daily tasks with ease.</li>
+<p>A beginner-friendly command-line Task Manager built in Python. Add, view, complete, and delete your daily tasks with ease.</p>
+
+<h3>25. 🤖 ChatBot Project</h3>
+<p>Hi there! 👋 This is a small project I built to learn, explore, and have fun with code. It’s simple, but meaningful — a place where ideas turn into something real. Whether you’re here to check it out, give feedback, or just browse, welcome aboard! </p>
 
 <h4>Key Features:</h4>
 <ul>
@@ -102,4 +105,5 @@ Play against the computer in a best-of-3 match, with real-time feedback, score t
  <li>Memory Sequence Game</li>
  <li>Rock Paper Scissors - Terminal Game</li>
  <li>Simple Task Manager</li>
+ <li>ChatBot Project</li>
 </ul>
