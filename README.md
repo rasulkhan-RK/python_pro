@@ -80,6 +80,16 @@ Play against the computer in a best-of-3 match, with real-time feedback, score t
 <h3>25. 🤖 ChatBot Project</h3>
 <p>Hi there! 👋 This is a small project I built to learn, explore, and have fun with code. It’s simple, but meaningful — a place where ideas turn into something real. Whether you’re here to check it out, give feedback, or just browse, welcome aboard! </p>
 
+<h3>26. Word Counter</h3>
+<p>A simple Python script to count words, characters (with/without spaces), and sentences in any text.</p>
+
+<h3>27. Simple Currency Converter</h3>
+<p>A lightweight Python CLI tool to convert currencies using real-time exchange rates from the Open Exchange Rates API.</p>
+<ul>
+ <li>Live currency conversion</li>
+ <li>Supports 160+ currencies</li>
+</ul>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -106,4 +116,6 @@ Play against the computer in a best-of-3 match, with real-time feedback, score t
  <li>Rock Paper Scissors - Terminal Game</li>
  <li>Simple Task Manager</li>
  <li>ChatBot Project</li>
+ <li>Word Counter</li>
+ <li>Simple Currency Converter</li>
 </ul>
