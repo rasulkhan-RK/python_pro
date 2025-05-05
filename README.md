@@ -90,6 +90,9 @@ Play against the computer in a best-of-3 match, with real-time feedback, score t
  <li>Supports 160+ currencies</li>
 </ul>
 
+<h3>28. 🔒 Password Generator</h3>
+<p>A simple terminal-based tool to generate strong and customizable passwords. Choose your length, character types, and get a secure password instantly — along with strength rating. No external libraries required.</p>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -118,4 +121,5 @@ Play against the computer in a best-of-3 match, with real-time feedback, score t
  <li>ChatBot Project</li>
  <li>Word Counter</li>
  <li>Simple Currency Converter</li>
+ <li>Password Generator</li>
 </ul>
