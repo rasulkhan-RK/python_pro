@@ -93,6 +93,15 @@ Play against the computer in a best-of-3 match, with real-time feedback, score t
 <h3>28. 🔒 Password Generator</h3>
 <p>A simple terminal-based tool to generate strong and customizable passwords. Choose your length, character types, and get a secure password instantly — along with strength rating. No external libraries required.</p>
 
+<h3>29. Finance Tracker</h3>
+<p>A simple command-line finance tracker to add, view, and summarize transactions.</p>
+<ul>
+ Features:
+ <li>Add Transaction: Track your income and expenses.</li>
+ <li>View Transactions: View your transaction history.</li>
+ <li>Summary: Get an overview of total income, expenses, and remaining balance.</li>
+</ul>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -122,4 +131,5 @@ Play against the computer in a best-of-3 match, with real-time feedback, score t
  <li>Word Counter</li>
  <li>Simple Currency Converter</li>
  <li>Password Generator</li>
+ <li>Finance Tracker</li>
 </ul>
