@@ -102,6 +102,14 @@ Play against the computer in a best-of-3 match, with real-time feedback, score t
  <li>Summary: Get an overview of total income, expenses, and remaining balance.</li>
 </ul>
 
+<h3>30.Python CLI Quiz App</h3>
+<p>A fun and interactive command-line quiz game built with Python.</p>
+<ul>
+ <li>✅ 4 categories: GK, Movies & TV, Science, Video Games</li>
+ <li>✅ Score tracking, instant feedback, and result summary</li>
+ <li>📦 Fully modular & beginner-friendly</li>
+</ul>
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -132,4 +140,5 @@ Play against the computer in a best-of-3 match, with real-time feedback, score t
  <li>Simple Currency Converter</li>
  <li>Password Generator</li>
  <li>Finance Tracker</li>
+ <li>Python CLI Quiz App</li>
 </ul>
