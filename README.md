@@ -102,7 +102,7 @@ Play against the computer in a best-of-3 match, with real-time feedback, score t
  <li>Summary: Get an overview of total income, expenses, and remaining balance.</li>
 </ul>
 
-<h3>30.Python CLI Quiz App</h3>
+<h3>30. Python CLI Quiz App</h3>
 <p>A fun and interactive command-line quiz game built with Python.</p>
 <ul>
  <li>✅ 4 categories: GK, Movies & TV, Science, Video Games</li>
