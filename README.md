@@ -110,6 +110,15 @@ Play against the computer in a best-of-3 match, with real-time feedback, score t
  <li>📦 Fully modular & beginner-friendly</li>
 </ul>
 
+<h3>31. Hello World - Tkinter App</h3>
+<p>A simple Python GUI app using Tkinter.  
+Greets the user by name or shows "Hello World" if left blank.</p>
+
+<h3>32. Simple Calculator - Tkinter</h3>
+<p>A basic Python GUI calculator using Tkinter.  
+Takes two numbers, adds them, and shows the result. Includes input validation and clear button.</p>
+
+
 <h4>Key Features:</h4>
 <ul>
   <li>Play against the computer</li>
@@ -141,4 +150,6 @@ Play against the computer in a best-of-3 match, with real-time feedback, score t
  <li>Password Generator</li>
  <li>Finance Tracker</li>
  <li>Python CLI Quiz App</li>
+ <li>Hello World - Tkinter App</li>
+ <li>Simple Calculator - Tkinter</li>
 </ul>
